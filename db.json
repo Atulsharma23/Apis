@@ -1,0 +1,282 @@
+{
+  "restaurant": [
+    {
+      "id": 1,
+      "name": "Burger King",
+      "address": "New York",
+      "rating": "3.8",
+      "email": "info@burgerking.com"
+    },
+    {
+      "id": 2,
+      "name": "Sushi Palace",
+      "address": "Tokyo",
+      "rating": "4.2",
+      "email": "reservations@sushipalace.com"
+    },
+    {
+      "name": "Pizza Story",
+      "address": "Ghumarwin Pizaa story",
+      "rating": "5",
+      "email": "Pizaastory@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "Pizza Story Bilaspur",
+      "address": "Bilapur Main Bazzar",
+      "rating": "4",
+      "email": "Pizzastorybilaspur@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "Berthin retaurant",
+      "address": "berthin 174031",
+      "rating": "3.4",
+      "email": "berthain@gmail.com",
+      "id": 5
+    }
+  ],
+  "school": [
+    {
+      "student": "Atul Sharma",
+      "school": "Him sarvodaya sr sec school",
+      "address": "Ghumarwin",
+      "phone": "7459658493",
+      "zipcode": "555555",
+      "id": 1
+    }
+  ],
+  "users": [
+    {
+      "name": "Nishant Sharma",
+      "email": "Nnishant@gmail.com",
+      "password": "1223@@",
+      "id": 2
+    },
+    {
+      "name": "Avinesh",
+      "email": "Avinesh666@gmail.com",
+      "password": "123456",
+      "id": 3
+    }
+  ],
+  "youtubeform": [
+    {
+      "name": "Atul Sharma",
+      "email": "satul7003@gmail.com",
+      "channel": "Youtube channel",
+      "comment": "This is my comment for me\n",
+      "id": 1
+    },
+    {
+      "name": "Atul Sharma\t",
+      "email": "satul7003@gmail.com\t",
+      "channel": "Youtube channel\t",
+      "comment": "This is my comment\tThis is my comment\tThis is my comment\tThis is my comment\tThis is my comment\t",
+      "id": 2
+    }
+  ],
+  "addproduct": [
+    {
+      "id": 1,
+      "name": "Product One",
+      "price": 19.99,
+      "description": "This is the description of Product One",
+      "photoupload": "path/to/image.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Mountain",
+      "photoupload": "download (3).jpg",
+      "price": 11,
+      "description": "Rucksack bags 95 litres travel bag for men touri"
+    },
+    {
+      "id": 4,
+      "name": "Gadget X",
+      "photoupload": "gadget_x.jpg",
+      "price": 49.99,
+      "description": "The latest and greatest gadget with amazing features."
+    },
+    {
+      "id": 5,
+      "name": "Awesome Shoes",
+      "photoupload": "shoes.jpg",
+      "price": 39.99,
+      "description": "Comfortable shoes for every occasion."
+    },
+    {
+      "id": 6,
+      "name": "Smart Watch",
+      "photoupload": "smart_watch.jpg",
+      "price": 79.99,
+      "description": "Stay connected with the latest smartwatch technology."
+    },
+    {
+      "name": "Vintage Camera",
+      "price": 129.99,
+      "description": "Capture memories with this classic vintage ",
+      "id": 7
+    },
+    {
+      "name": "T- Shirt",
+      "price": "12",
+      "description": "Nice T shirt",
+      "id": 8
+    },
+    {
+      "name": "10 gm Weed",
+      "price": "100",
+      "description": "This is Malana Cream of very good quality",
+      "id": 9
+    },
+    {
+      "name": "test",
+      "price": "11",
+      "description": "This is Malana Cream of very good quality\tThis is Malana Cream of very good quality\t",
+      "id": 11
+    }
+  ],
+  "events": [
+    {
+      "id": 1,
+      "eventName": "Event 1",
+      "eventDescription": "Description for Event 1",
+      "eventOverview": "Overview for Event 1",
+      "instructions": "Instructions for Event 1",
+      "eventAddress": "Address 1",
+      "venue": "Venue 1",
+      "photo": "./images/audience-1853662_640.jpg"
+    },
+    {
+      "id": 2,
+      "eventName": "Event 2",
+      "eventDescription": "Description for Event 2",
+      "eventOverview": "Overview for Event 2",
+      "instructions": "Instructions for Event 2",
+      "eventAddress": "Address 2",
+      "venue": "Venue 2",
+      "photo": "./images/audience-1853662_640.jpg"
+    },
+    {
+      "id": 3,
+      "eventName": "Event 3",
+      "eventDescription": "Description for Event 3",
+      "eventOverview": "Overview for Event 3",
+      "instructions": "Instructions for Event 3",
+      "eventAddress": "Address 3",
+      "venue": "Venue 3",
+      "photo": "./images/audience-1853662_640.jpg"
+    },
+    {
+      "eventName": "test",
+      "eventDescription": "test",
+      "overview": "test",
+      "instruction": "test",
+      "address": "test",
+      "venue": "test",
+      "photo": "./images/audience-1853662_640.jpg",
+      "id": 4
+    },
+    {
+      "eventName": "test",
+      "eventDescription": "test",
+      "overview": "test",
+      "instruction": "test",
+      "address": "test",
+      "venue": "test",
+      "photo": "./images/audience-1853662_640.jpg",
+      "id": 5
+    },
+    {
+      "eventName": "testcgau",
+      "eventDescription": "fwfwf",
+      "overview": "dafaef",
+      "instruction": "faef",
+      "address": "faef213",
+      "venue": "123dd",
+      "photo": "./images/audience-1853662_640.jpg",
+      "id": 6
+    },
+    {
+      "eventName": "This is Nature Event For besst Event",
+      "eventDescription": "The Crew platform allows us to equip students with the resources they need to educate their peers and communities about the realities of chronic hunger and poverty and the tools to create a non-profit social enterprise!\n\n",
+      "overview": "The Crew platform allows us to equip students with the resources they need to educate their peers and communities about the realities of chronic hunger and poverty and the tools to create a non-profit social enterprise!",
+      "instruction": "\"I am thrilled about the way the Crew Platform can empower our programs and support us in the way we want to run them. We were able to launch our first cohort with very little funding thanks to their support.\"\n\"I am thrilled about the way the Crew Platform can empower our programs and support us in the way we want to run them. We were able to launch our first cohort with very little funding thanks to their support.\"\n\n\"I am thrilled about the way the Crew Platform can empower our programs and support us in the way we want to run them. We were able to launch our first cohort with very little funding thanks to their support.\"\n\n\"I am thrilled about the way the Crew Platform can empower our programs and support us in the way we want to run them. We were able to launch our first cohort with very little funding thanks to their support.\"\n\n\"I am thrilled about the way the Crew Platform can empower our programs and support us in the way we want to run them. We were able to launch our first cohort with very little funding thanks to their support.\"\n\n\n\n",
+      "address": " Old Bus Stand Rd, Krishna Nagar, Shimla, Himachal Pradesh 171001",
+      "venue": "Old Bus Stand Rd, Krishna Nagar, Venue  of   event",
+      "photo": "./images/audience-1853662_640.jpg",
+      "id": 7
+    },
+    {
+      "eventName": "Madhu",
+      "eventDescription": "Madhu",
+      "overview": "Madhu",
+      "instruction": "Madhu",
+      "address": "Madhu",
+      "venue": "madhu",
+      "photo": "./images/IMG_20180528_212150.jpg",
+      "id": 8
+    },
+    {
+      "eventName": "testaavd",
+      "eventDescription": "dkada",
+      "overview": "kjqbfkqbf",
+      "instruction": "qkldnkqld",
+      "address": " qjwkdbjqw",
+      "venue": "qwbjdkqwk",
+      "photo": "./images/istockphoto-1189205577-612x612.jpg",
+      "id": 9
+    },
+    {
+      "eventName": "Rap Game",
+      "eventDescription": "Rap Game is my only game that i know for me",
+      "overview": "Rap, musical style in which rhythmic and/or rhyming speech is chanted (“rapped”) to musical accompaniment. This backing music, which can include digital sampling (music and sounds extracted from other recordings), is also called hip-hop, the name used to refer to a broader cultural movement that includes rap, deejaying (turntable manipulation), graffiti painting, and break dancing. Rap, which originated in African American communities in New York City, came to national prominence with the Sugar Hill Gang’s “Rapper’s Delight” (1979). Rap’s early stars included Grandmaster Flash and the Furious Five, Run-D.M.C., LL Cool J, Public Enemy (who espoused a radical political message), and the Beastie Boys. The late 1980s saw the advent of “gangsta rap,” with lyrics that were often misogynistic or that glamorized violence and drug dealing. Later stars include Diddy, Snoop Dogg, Jay-Z, OutKast, Eminem, Kanye West, Lil Wayne, Drake, and Nicki Minaj.",
+      "instruction": "Rap, musical style in which rhythmic and/or rhyming speech is chanted (“rapped”) to musical accompaniment. This backing music, which can include digital sampling (music and sounds extracted from other recordings), is also called hip-hop, the name used to refer to a broader cultural movement that includes rap, deejaying (turntable manipulation), graffiti painting, and break dancing. Rap, which originated in African American communities in New York City, came to national prominence with the Sugar Hill Gang’s “Rapper’s Delight” (1979). Rap’s early stars included Grandmaster Flash and the Furious Five, Run-D.M.C., LL Cool J, Public Enemy (who espoused a radical political message), and the Beastie Boys. The late 1980s saw the advent of “gangsta rap,” with lyrics that were often misogynistic or that glamorized violence and drug dealing. Later stars include Diddy, Snoop Dogg, Jay-Z, OutKast, Eminem, Kanye West, Lil Wayne, Drake, and Nicki Minaj.\n\n",
+      "address": "test Address",
+      "venue": "Test Venue",
+      "photo": "./images/IMG_20180528_212150.jpg",
+      "id": 10
+    },
+    {
+      "eventName": "Yoga event",
+      "eventDescription": "The Union Minister for Defence, Shri Rajnath Singh performs Yoga with the personnel of the Armed Forces & the Indian Coast Guard onboard INS Vikrant on the occasion of 9th International Day of Yoga on June 21, 2023.\n",
+      "overview": "The Union Minister for Defence, Shri Rajnath Singh performs Yoga with the personnel of the Armed Forces & the Indian Coast Guard onboard INS Vikrant on the occasion of 9th International Day of Yoga on June 21, 2023.",
+      "instruction": "The Union Minister for Defence, Shri Rajnath Singh performs Yoga with the personnel of the Armed Forces & the Indian Coast Guard onboard INS Vikrant on the occasion of 9th International Day of Yoga on June 21, 2023.\n",
+      "address": "near ghumarwin",
+      "venue": "taj hotel",
+      "photo": "C:\\fakepath\\audience-1853662_640.jpg",
+      "id": 11
+    },
+    {
+      "eventName": "saDA",
+      "eventDescription": "dajiuacicbsbcasuocbauc",
+      "overview": "cacaca",
+      "instruction": "cacacacacac",
+      "address": "chiuasgfbeqfjbwef",
+      "venue": "fwvfwhfvbw",
+      "photo": "C:\\fakepath\\IMG_20210831_131536_1.jpg",
+      "id": 12
+    },
+    {
+      "eventName": "",
+      "eventDescription": "",
+      "overview": "",
+      "instruction": "",
+      "address": "",
+      "venue": "",
+      "photo": "shopping (1).webp",
+      "id": 13
+    },
+    {
+      "eventName": "",
+      "eventDescription": "",
+      "overview": "",
+      "instruction": "",
+      "address": "",
+      "venue": "",
+      "photo": "",
+      "id": 14
+    }
+  ]
+}
